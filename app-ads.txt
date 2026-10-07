@@ -1,7 +1,3 @@
-# app-ads.txt for Storm Engine
-# Ad buyers check this file to confirm who may sell ads in your app. It must sit at the ROOT of the
-# developer website entered in Play Console (for example https://yourname.github.io/app-ads.txt).
-#
-# Replace these comments with the lines from the LevelPlay dashboard:
-#   LevelPlay > Setup > app-ads.txt (copy the full list, including the Unity Ads lines).
-# Then check it in the LevelPlay dashboard. Keep this file updated when you add ad networks.
+# app-ads.txt - authorised sellers for Moonbit Studios apps
+# One Block (AdMob)
+google.com, pub-8245076512139173, DIRECT, f08c47fec0942fa0
